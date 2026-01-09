@@ -1,0 +1,1 @@
+Generate a sinewave of signal defined by x(t)=2.5 sin(wt-30) with f=100Hz. Sample the signal at fs1=80Hz, fs2=200Hz, fs3=1000Hz.
