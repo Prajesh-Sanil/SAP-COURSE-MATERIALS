@@ -24,4 +24,5 @@ grid on;
 %Observation:
 %100Hz -> 1/2 (cycle/sample) Poor signal recontructability, higher loss.
 %150 & 200Hz -> 3 and 4 samples/cycle Better than fs=100Hz Lower loss
+
 %1000Hz -> 20 samples/cycle Higher resolution, Better informations recived 
